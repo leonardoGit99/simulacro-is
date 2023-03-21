@@ -1,2 +1,2 @@
 # simulacro-is
-Simulacro para practicar is.
+Simulacro para practicar is
